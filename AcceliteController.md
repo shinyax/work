@@ -8,14 +8,7 @@ Input：SlideSwitch*4，PushSwitch*1
   
 JoystickNumber：  
 ※ubuntuとwinでは数値の始まりが異なります．  
-|    | ubuntu |  win |  
-|:--:|:------:|:----:|  
-| S1 |   1    |   2  |  
-| S2 |   2    |   3  |  
-| P3 |   3    |   4  |  
-| S3 |   4    |   5  |  
-| S4 |   5    |   6  |  
-  
+
 |    |ubuntu | win |  
 |:--:|:-----:|:---:|  
 | S1 |   1   |  2  |  
@@ -23,9 +16,6 @@ JoystickNumber：
 | P3 |   3   |  4  |  
 | S3 |   4   |  5  |  
 | S4 |   5   |  6  |  
-| ???     |325.896 327.323  |326.009  264.448 | -0.33870 0.09778868 -0.0003693 -0.0003969|    ????   |  
-
-
 S*：SlideSwitch*　P*:PushSwitch*
 
 ubuntu側のソフトウェア問題対処の為  
