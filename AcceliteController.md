@@ -13,8 +13,9 @@ JoystickNumber：
 | S1 |   1    |   2  |  
 | S2 |   2    |   3  |  
 | P3 |   3    |   4  |  
-| S3 |   4    |   5  |
+| S3 |   4    |   5  |  
 | S4 |   5    |   6  |  
+
 S*：SlideSwitch*　P*:PushSwitch*
 
 ubuntu側のソフトウェア問題対処の為  
