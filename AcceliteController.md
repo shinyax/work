@@ -9,6 +9,7 @@ Input：SlideSwitch*4，PushSwitch*1
 JoystickNumber：  
 ※ubuntuとwinでは数値の始まりが異なります．  
 |    | ubuntu |  win |  
+|:--:|:------:|:----:|  
 | S1 |   1    |   2  |  
 | S2 |   2    |   3  |  
 | P3 |   3    |   4  |  
